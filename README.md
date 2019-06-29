@@ -1,5 +1,5 @@
-# Springboard-Course-Projects
+# JSON-Project
 
-A collection of projects for Data Science Career Track course. 
+Using the World Bank dataset from a school quality improvement project in Ethiopia, I practice my data wrangling skills by extracting and manipulating data in JSON. This dataset contains missing values in which I fill in.
 
-Springboard is a 550+ hours of hands-on curriculum, with 1:1 industry expert mentor oversight, and completion of 2 in-depth capstone projects. Mastering skills in Python, SQL, data analysis, data visualization, hypothesis testing, and machine learning.
+The data folder contains the initial data file while the code is in the notebook folder.
